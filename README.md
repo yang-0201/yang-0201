@@ -9,8 +9,8 @@
 
 ### 🔥 Latest Work
 <div align="center">
-<a href="https://github.com/yang-0201/MAF-YOLOv2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yang-0201&repo=MAF-YOLOv2&hide_border=false&theme=dark" />
+<a href="https://github.com/yang-0201/MHAF-YOLO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yang-0201&repo=MHAF-YOLO&hide_border=false&theme=dark" />
 </a> 
 <a href="https://github.com/yang-0201/MAF-YOLO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yang-0201&theme=dark&repo=MAF-YOLO" />
