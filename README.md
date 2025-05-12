@@ -2,7 +2,7 @@
 <div align="center">
   
 
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=yang-0201&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=vue&hide_border=true" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=yang-0201&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=swift&hide_border=true" />
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=yang-0201&hide_border=true" />
 
 </div>
@@ -10,15 +10,20 @@
 ### 🔥 Latest Work
 <div align="center">
 <a href="https://github.com/yang-0201/MHAF-YOLO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yang-0201&repo=MHAF-YOLO&hide_border=false&theme=dark" />
-</a> 
-<a href="https://github.com/yang-0201/MAF-YOLO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yang-0201&theme=dark&repo=MAF-YOLO" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yang-0201&repo=MHAF-YOLO&hide_border=false&theme=shadow_blue" />
 </a> 
 </div>
 
+### 🏆 Competitions
+- 🥇 Champion - Alibaba Tianchi IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge (1-347)
 
+- 🥇 Champion - Alibaba Tianchi The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1-369)
+  
+- 🏅 Seventh Place - 2023 IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World (7-103)
 
+- 🏅 Fifth Place - 2024 Global Artificial Intelligence Innovation Competition (GAIIC) - Dual-Spectrum Object Detection from UAV Perspective (5/1241)
+
+- 🥈 Runner-Up - Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
 ### 📫 Concat
 QQ: 8888211
 
