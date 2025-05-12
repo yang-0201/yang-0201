@@ -1,4 +1,6 @@
 ## I'm Xiang Yang 👋
+
+Tianchi Elite Developer ｜ Kaggle Contributor
 <div align="center">
   
 
