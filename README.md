@@ -17,15 +17,19 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 </div>
 
 ### 🏆 Competitions
-- 🥇 Champion - Alibaba Tianchi IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge (1-347)
-
-- 🥇 Champion - Alibaba Tianchi The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1-369)
-  
-- 🏅 Seventh Place - 2023 IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World (7-103)
+- 🥈 Runner-Up - Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
 
 - 🏅 Fifth Place - 2024 Global Artificial Intelligence Innovation Competition (GAIIC) - Dual-Spectrum Object Detection from UAV Perspective (5/1241)
 
-- 🥈 Runner-Up - Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
+- 🏅 Seventh Place - 2023 IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World (7-103)
+
+- 🥇 Champion - Alibaba Tianchi The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1-369)
+
+- 🥇 Champion - Alibaba Tianchi IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge (1-347)
+
+  
+
+
 ### 📫 Concat
 QQ: 8888211
 
