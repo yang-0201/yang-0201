@@ -17,6 +17,8 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 </div>
 
 ### 🏆 Competitions
+- 🥈 Silver - Kaggle BYU - Locating Bacterial Flagellar Motors 2025 (42/1136)
+  
 - 🥈 Runner-Up - Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
 
 - 🏅 Fifth Place - 2024 Global Artificial Intelligence Innovation Competition (GAIIC) - Dual-Spectrum Object Detection from UAV Perspective (5/1241)
