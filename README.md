@@ -17,6 +17,10 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 </div>
 
 ### 🏆 Competitions
+- 🏅 Fifth Place - Qizhi Cup: Satellite Remote Sensing Image Robust Instance Segmentation Challenge
+  
+- 🏅 Fourth Place - Qizhi Cup: UAV Ground Target Detection Challenge for Embedded Platforms
+
 - 🥈 Silver - Kaggle BYU - Locating Bacterial Flagellar Motors 2025 (42/1136)
   
 - 🥈 Runner-Up - Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
