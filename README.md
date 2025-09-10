@@ -17,19 +17,19 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 </div>
 
 ### 🏆 Competitions
-- 🏅 Fifth Place - Qizhi Cup: Satellite Remote Sensing Image Robust Instance Segmentation Challenge
+- 🏅 Fifth Place - 2025 Qizhi Cup: Satellite Remote Sensing Image Robust Instance Segmentation Challenge
   
-- 🏅 Fourth Place - Qizhi Cup: UAV Ground Target Detection Challenge for Embedded Platforms
+- 🏅 Fourth Place - 2025 Qizhi Cup: UAV Ground Target Detection Challenge for Embedded Platforms
 
-- 🥈 Silver - Kaggle BYU - Locating Bacterial Flagellar Motors 2025 (42/1136)
+- 🥈 Silver - 2025 Kaggle BYU - Locating Bacterial Flagellar Motors (42/1136)
   
-- 🥈 Runner-Up - Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
+- 🥈 Runner-Up - 2024 Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
 
 - 🏅 Fifth Place - 2024 Global Artificial Intelligence Innovation Competition (GAIIC) - Dual-Spectrum Object Detection from UAV Perspective (5/1241)
 
 - 🏅 Seventh Place - 2023 IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World (7-103)
 
-- 🥇 Champion - Alibaba Tianchi The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1-369)
+- 🥇 Champion - 2023 Alibaba Tianchi The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1-369)
 
 - 🥇 Champion - Alibaba Tianchi IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge (1-347)
 
