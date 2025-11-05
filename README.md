@@ -17,21 +17,25 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 </div>
 
 ### 🏆 Competitions
-- 🏅 Fifth Place - 2025 Qizhi Cup: Satellite Remote Sensing Image Robust Instance Segmentation Challenge
+- 🥇 Champion - 2025 Alibaba Tianchi - Track 1 of the First “Ruichuang Cup” College Innovation and Entrepreneurship Competition: Lightweight Dual-Spectrum (Visible–Infrared) Object Detection (1/659)
   
-- 🏅 Fourth Place - 2025 Qizhi Cup: UAV Ground Target Detection Challenge for Embedded Platforms
+- 🥈 Runner-Up - 2025 Alibaba Tianchi - Track 2 of the First “Ruichuang Cup” College Innovation and Entrepreneurship Competition: Image and Scene Generation Methods Based on Large Models (2/318)
+
+- 🏅 Fifth Place - 2025 Qizhi Cup - Satellite Remote Sensing Image Robust Instance Segmentation Challenge
+  
+- 🏅 Fourth Place - 2025 Qizhi Cup - UAV Ground Target Detection Challenge for Embedded Platforms
 
 - 🥈 Silver - 2025 Kaggle BYU - Locating Bacterial Flagellar Motors (42/1136)
   
-- 🥈 Runner-Up - 2024 Alibaba Tianchi Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
+- 🥈 Runner-Up - 2024 Alibaba Tianchi - Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
 
 - 🏅 Fifth Place - 2024 Global Artificial Intelligence Innovation Competition (GAIIC) - Dual-Spectrum Object Detection from UAV Perspective (5/1241)
 
-- 🏅 Seventh Place - 2023 IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World (7-103)
+- 🏅 Seventh Place - 2023 IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World (7/103)
 
-- 🥇 Champion - 2023 Alibaba Tianchi The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1-369)
+- 🥇 Champion - 2023 Alibaba Tianchi - The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1/369)
 
-- 🥇 Champion - Alibaba Tianchi IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge (1-347)
+- 🥇 Champion - Alibaba Tianchi - IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge (1/347)
 
   
 
