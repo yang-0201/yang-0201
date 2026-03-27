@@ -17,6 +17,10 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 </div>
 
 ### 🏆 Competitions
+- 🥈 Runner-Up - NTIRE 2026 Robust AI-Generated Image Detection in the Wild Challenge
+
+- 🥈 Runner-Up - NTIRE 2026 - Robust Deepfake Detection Challenge @ CVPR 2026 Forum
+ 
 - 🥇 Champion - 2025 Alibaba Tianchi - Track 1 of the First “Ruichuang Cup” College Innovation and Entrepreneurship Competition: Lightweight Dual-Spectrum (Visible–Infrared) Object Detection (1/659)
   
 - 🥈 Runner-Up - 2025 Alibaba Tianchi - Track 2 of the First “Ruichuang Cup” College Innovation and Entrepreneurship Competition: Image and Scene Generation Methods Based on Large Models (2/318)
@@ -30,8 +34,6 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 - 🥈 Runner-Up - 2024 Alibaba Tianchi - Global AI Defense Challenge — Track 2: AI Identity Verification - Detection of Credential Tampering in Financial Scenarios (2/1162)
 
 - 🏅 Fifth Place - 2024 Global Artificial Intelligence Innovation Competition (GAIIC) - Dual-Spectrum Object Detection from UAV Perspective (5/1241)
-
-- 🏅 Seventh Place - 2023 IJCAI 1st International Workshop on Generalizing from Limited Resources in the Open World (7/103)
 
 - 🥇 Champion - 2023 Alibaba Tianchi - The Second IEEE Cybermatics International "Vision Meets Algae" Challenge and Workshop (1/369)
 
