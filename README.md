@@ -17,6 +17,8 @@ Tianchi Elite Developer ｜ Kaggle Contributor
 </div>
 
 ### 🏆 Competitions
+- 🏅 Fifth Place - 2026 The 2nd “Ruichuang Cup” Infrared Intelligent Perception Challenge: Open-World All-Modal Infrared Segmentation (4/268)
+
 - 🥈 Runner-Up - NTIRE 2026 Robust AI-Generated Image Detection in the Wild Challenge (2/513)
 
 - 🥈 Runner-Up - NTIRE 2026 - Robust Deepfake Detection Challenge @ CVPR 2026 Forum (2/342)
